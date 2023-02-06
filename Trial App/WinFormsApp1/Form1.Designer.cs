@@ -37,9 +37,9 @@
             this.metroLabel1.AutoSize = true;
             this.metroLabel1.Location = new System.Drawing.Point(250, 140);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(60, 19);
+            this.metroLabel1.Size = new System.Drawing.Size(62, 19);
             this.metroLabel1.TabIndex = 0;
-            this.metroLabel1.Text = "Version 1";
+            this.metroLabel1.Text = "Version 2";
             // 
             // textBox1
             // 
