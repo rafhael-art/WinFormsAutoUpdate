@@ -64,7 +64,7 @@
             this.metroLabel1.Name = "metroLabel1";
             this.metroLabel1.Size = new System.Drawing.Size(62, 19);
             this.metroLabel1.TabIndex = 0;
-            this.metroLabel1.Text = "Version 6";
+            this.metroLabel1.Text = "Version 7";
             // 
             // textBox1
             // 
@@ -291,7 +291,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.metroLabel1);
             this.Name = "Form1";
-            this.Text = "Formulario Prueba 6";
+            this.Text = "Formulario Prueba 7";
             ((System.ComponentModel.ISupportInitialize)(this.metroGrid1)).EndInit();
             this.metroContextMenu1.ResumeLayout(false);
             this.ResumeLayout(false);
