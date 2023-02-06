@@ -291,7 +291,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.metroLabel1);
             this.Name = "Form1";
-            this.Text = "Formulario Prueba 5";
+            this.Text = "Formulario Prueba 6";
             ((System.ComponentModel.ISupportInitialize)(this.metroGrid1)).EndInit();
             this.metroContextMenu1.ResumeLayout(false);
             this.ResumeLayout(false);
