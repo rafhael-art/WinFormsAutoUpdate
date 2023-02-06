@@ -8,6 +8,7 @@ D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\bin\Debug\net6.0-wind
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\bin\Debug\net6.0-windows\MetroFramework.dll
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
@@ -19,4 +20,3 @@ D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-wind
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
-D:\Nueva carpeta\WinFormsAutoUpdate\Trial App\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
