@@ -64,7 +64,7 @@
             this.metroLabel1.Name = "metroLabel1";
             this.metroLabel1.Size = new System.Drawing.Size(62, 19);
             this.metroLabel1.TabIndex = 0;
-            this.metroLabel1.Text = "Version 3";
+            this.metroLabel1.Text = "Version 6";
             // 
             // textBox1
             // 
